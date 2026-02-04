@@ -1,2 +1,2 @@
 # RiceDetectionAI
-Integrating an AI Model with an app
+Integrating an AI Model to an app
