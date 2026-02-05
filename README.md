@@ -1,2 +1,2 @@
 # RiceDetectionAI
-Integrating an AI Model to an app
+Integrating a fortified rice composition detecting AI Model to an app
